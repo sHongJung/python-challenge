@@ -1,2 +1,2 @@
 # python-challenge
-Python Data Analytics 
+Python Data Analytics Practice
